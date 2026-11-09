@@ -42,7 +42,7 @@ Novas atividades, desafios e projetos serão adicionados aqui conforme eu avanç
 4. **Desenvolvimento:** fortalecer fundamentos de programação e explorar aplicações web.
 5. **Portfólio:** desenvolver projetos, documentar como executá-los e compartilhar minha evolução.
 
-O cronograma detalhado está no material [Planejador de carreiras](<Create AGENT 2 - Planejador de Carreiras>).
+O cronograma detalhado está no material [Planejador de carreiras](<https://github.com/davidmduraes/DIO/blob/main/AGENT%202%20-%20Planejador%20de%20Carreiras.md>).
 
 ## Acompanhe meus estudos
 
