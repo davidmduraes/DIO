@@ -20,7 +20,7 @@ Aqui registro minha evolução em desenvolvimento de software, compartilho o que
 
 | Material | Descrição |
 | --- | --- |
-| [Planejador de carreiras](<README.md>) | Atividade com mapa de habilidades, plano de estudos, projeto de portfólio e preparação para entrevistas. |
+| [Planejador de carreiras](<https://github.com/davidmduraes/DIO/edit/main/README.md>) | Atividade com mapa de habilidades, plano de estudos, projeto de portfólio e preparação para entrevistas. |
 
 Novas atividades, desafios e projetos serão adicionados aqui conforme eu avançar nos cursos e formações.
 
